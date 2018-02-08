@@ -14,7 +14,7 @@ update `index.html` with `<link href="https://fonts.googleapis.com/icon?family=M
 
 update `src/main.ts` with `import 'hammerjs';`
 
-add `BrowserAnimationModule` to `module.ts` imports
+add `BrowserAnimationsModule` from `@angular/platform-browser/animations` to `module.ts` imports
 
 ## Flex Layout
 
